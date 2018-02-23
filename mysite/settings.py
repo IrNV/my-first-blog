@@ -25,7 +25,7 @@ SECRET_KEY = 'tz(dvuw5mvtbus-i8(0m*t96t_hbg$ttuv8z9)+prv_7egiu=9'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['127.0.0.1', 'Valera.pythonanywhere.com']
+ALLOWED_HOSTS = ['127.0.0.1', 'Valera.pythonanywhere.com', 'irn.pythonanywhere.com']
 
 
 # Application definition
